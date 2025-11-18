@@ -1,0 +1,250 @@
+/*.estilos-btn-dropdown{
+    display: none !important;
+}
+    */
+.nav-item{
+    list-style-type: none;
+}
+.navcolor{
+    background-color: #ED5111 !important; 
+}
+.formu-login{
+    left: 22px !important;
+    width: 90%;
+    position: relative;
+    height: 15em;
+    background-color: solid 2px #000!important;
+    top: 5em !important;
+}
+
+/* SECTION CARROUSEL*/
+#carrousel-principal{
+    width: 100% !important;
+    height: 610px;
+    position:relative;
+    top:59px;
+}
+.carrousel-principal{
+    background-color: #000000;
+    width: 100% !important;
+    height: 606px!important;
+    position:relative;
+    
+}
+.box-carrusel{
+    background-color: #000000;
+    width: 100%;
+    height: 608px;
+}
+.carousel-item{
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s 
+ease-in-out;
+}
+.contenedor-imagen-carrousel{
+    width: 95%;
+    height: 400px;
+}
+.carousel{
+    position: relative;
+    height: 586px;
+}
+.carousel-caption {
+    position: relative!important;
+    width: 55% !important;
+    height: 129px !important;
+    left: 24% !important;
+    bottom:  20.25rem!important;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: var(--bs-carousel-caption-color);
+    text-align: center;
+}
+.img-carrusel1{
+    width: 55%!important ;
+    height: 610px !important;
+    position: relative;
+    left: 0em;
+}
+.w-100 {
+    width: 100% !important;
+    height: 785px !important;
+}
+.carousel-inner {
+    position: relative;
+    height: 610px !important;
+    width: 100%;
+    overflow: hidden;
+}
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    height: 591px !important;
+    width: 100%!important;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+/*CSS SECCION  INFO */
+.info{
+    width: 100%;
+    height: 22em;
+    background-color: #000000;
+}
+.px-4 {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    position: relative !important;
+    top: 39px !important;
+}
+.border {
+    border: #000 !important
+}
+.colu-info{
+    height: 18em!important;
+}
+.card{
+    position: relative!important;
+    left: 51px !important;
+    top: -13px!important;
+}
+.card-img-top {
+    width: 59%!important;
+}
+/* CSS SECCION NOSOTROS*/
+.box-nosotros{
+    width: 100%;
+    height: 50em;
+    position: relative;
+    margin-top: 51em;
+    bottom: 50em;
+}
+.box-titulo-nosotros{
+    background-color: brown;
+    height:10em;
+    margin-top: 2em !important
+}
+.box-description-nosotros{
+    height: 35em;
+    width: 40% !important;
+    background-color: blueviolet;
+}
+.box-card-nosotros{
+    height: 35em;
+    width: 59% !important;
+    background-color: aquamarine;
+}
+/*
+.box-colum1-nosotros{
+    width: 99%;
+    height: 10em;
+    height: 45em;
+    background-color: blueviolet;
+}
+.contenedor-titulos-nosotros{
+    width:90%;
+    height: 19em;
+    position: relative;
+    top: 44px;
+    left: 19px;
+    background-color: aqua;
+}*/
+/* CSS SECTION SEGUNDA PARTE*/
+.seccion-korper{
+    width: 100% !important;
+    height: 68em !important;
+    background-color: #000000;
+    position: relative;
+    top: 4em !important;
+}
+.box-seccion2{
+    background-color: #ABEF77;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    margin-top: 5px;
+
+}
+.box-footer{
+    width: 100%;
+    height: 20em;
+    background-color: #ABEF77;
+    margin-top: 67px;
+}
+.colu-mapa{
+    width: 63% !important;
+    position: relative;
+    top: 96px;
+    height: 32em;
+    background-color: #000000;
+    margin-top: 2px !important;
+}
+.g-3, .gy-3 {
+    --bs-gutter-y: 1rem;
+    position: relative !important;
+    top: -5px !important;
+    margin-bottom: 17px !important;
+}
+.colu-datos{
+    width: 35% !important;
+    position: relative;
+    top: 96px;
+    height: 32em;
+    margin-top: 2px !important;
+    background-color: #000000;
+}
+.columnas-futer {
+    width: 33% !important;
+    height: 319px !important;
+}
+
+.btn-group, .btn-group-vertical {
+    position: relative;
+    top: 88px;
+    /* margin: 0px; */
+    display: inline-flex;
+    vertical-align: middle;
+}
+.box-copiright{
+    width: 64% !important;
+    height: 39px !important;
+    position: relative !important;
+    top: 254px !important;
+}
+.info-futer {
+    width: 69% !important;
+    height: 208px !important;
+    position: relative !important;
+    top: 57px !important;
+    left: 66px !important;
+}
+.metodos-pago{
+    width: 75% !important;
+    height: 153px!important;
+    position: relative;
+    background-color: cornsilk !important;
+    top: 34px !important;
+    left: 50px !important;
+}
+.btn-outline-secondary {
+    --bs-btn-color:fff!important;
+}
+.redes{
+    width: 75% !important;
+    height: 95px;
+    position: relative;
+    background-color: cornsilk !important;
+    top: 38px !important;
+    left: 50px !important;
+}
+.bi{
+    font-size: 25px!important;
+}

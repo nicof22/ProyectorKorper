@@ -1,0 +1,161 @@
+/*.estilos-btn-dropdown{
+    display: none !important;
+}
+    */
+.nav-item{
+    list-style-type: none;
+}
+.navcolor{
+    background-color: #ED5111 !important; 
+}
+
+/* CSS SECCION NOSOTROS*/
+.box-nosotros{
+    background-color: #000000!important;
+    width: 100% !important;
+    height: 50em;
+    position: relative;
+    top: 4em !important;
+   font-family: "Alkatra", system-ui !important;
+}
+.box-titulo-nosotros{
+    font-size: x-large;
+    background-color: #ED5111;
+    width:960% !important;
+    height: 10em;
+    position: relative;
+    top: 2px !important;
+    margin-top: 0em !important;
+}
+.box-description-nosotros{
+    height: 35em;
+    width: 40% !important;
+    background-color: #000000;
+}
+.box-card-nosotros{
+    height: 35em;
+    width: 59% !important;
+    background-color: #000000;
+}
+.btn-primary {
+    --bs-btn-color: #000000 !important;
+    --bs-btn-bg: #ED5111 !important;
+    --bs-btn-border-color: #ED5111 !important;
+    --bs-btn-hover-color: #fff !important;
+    --bs-btn-hover-bg: #ED9A31 !important;
+    --bs-btn-hover-border-color: #ED5111 !important;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #000000 !important;
+    --bs-btn-active-bg: #ED5111 !important;
+    --bs-btn-active-border-color: #ED5111 !important;
+    --bs-btn-active-shadow: inset 0 3px 5px #fff !important;
+    --bs-btn-disabled-color: #000000 !important;
+    --bs-btn-disabled-bg: #fff !important;
+    --bs-btn-disabled-border-color: #fff !important;
+}
+/*
+.box-colum1-nosotros{
+    width: 99%;
+    height: 10em;
+    height: 45em;
+    background-color: blueviolet;
+}
+.contenedor-titulos-nosotros{
+    width:90%;
+    height: 19em;
+    position: relative;
+    top: 44px;
+    left: 19px;
+    background-color: aqua;
+}*/
+/* CSS SECTION SEGUNDA PARTE*/
+.seccion-korper{
+    width: 98%;
+    height: 730px!important;
+    background-color: chocolate;
+    position: relative;
+    margin-top: 4em !important;
+}
+.box-seccion2{
+    background-color: crimson;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    margin-top: 5px;
+
+}
+.box-footer{
+    width: 100%;
+    height: 20em;
+    background-color: #ABEF77;
+    margin-top: 67px;
+}
+.colu-mapa{
+    width: 63% !important;
+    position: relative;
+    top: 96px;
+    height: 32em;
+    background-color: #000000;
+    margin-top: 2px !important;
+}
+.g-3, .gy-3 {
+    --bs-gutter-y: 1rem;
+    position: relative !important;
+    top: -5px !important;
+    margin-bottom: 17px !important;
+}
+.colu-datos{
+    width: 35% !important;
+    position: relative;
+    top: 96px;
+    height: 32em;
+    margin-top: 2px !important;
+    background-color: #000000;
+}
+.columnas-futer {
+    width: 33% !important;
+    height: 319px !important;
+}
+
+.btn-group, .btn-group-vertical {
+    position: relative;
+    top: 88px;
+    /* margin: 0px; */
+    display: inline-flex;
+    vertical-align: middle;
+}
+.box-copiright{
+    width: 64% !important;
+    height: 39px !important;
+    position: relative !important;
+    top: 254px !important;
+}
+.info-futer {
+    width: 69% !important;
+    height: 208px !important;
+    position: relative !important;
+    top: 57px !important;
+    left: 66px !important;
+}
+.metodos-pago{
+    width: 75% !important;
+    height: 153px!important;
+    position: relative;
+    background-color: cornsilk !important;
+    top: 34px !important;
+    left: 50px !important;
+}
+.btn-outline-secondary {
+    --bs-btn-color:fff!important;
+}
+.redes{
+    width: 75% !important;
+    height: 95px;
+    position: relative;
+    background-color: cornsilk !important;
+    top: 38px !important;
+    left: 50px !important;
+}
+.bi{
+    font-size: 25px!important;
+}
